@@ -1,2 +1,2 @@
 console.log("JavaScript radi");
-console.log("Iskljucen auto git43");
+console.log("Primjer lokalnog commita");

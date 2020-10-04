@@ -1,2 +1,2 @@
 console.log("JavaScript radi");
-console.log("Primjer lokalnog commita2");
+console.log("Primjer -u opcije");

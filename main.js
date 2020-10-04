@@ -1,2 +1,2 @@
 console.log("JavaScript radi");
-console.log("Primjer -u opcije");
+console.log("Primjer user");

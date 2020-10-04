@@ -1,2 +1,2 @@
 console.log("JavaScript radi");
-console.log("Iskljucen auto git4");
+console.log("Iskljucen auto git43");

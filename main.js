@@ -1,2 +1,2 @@
 console.log("JavaScript radi");
-console.log("Primjer lokalnog commita");
+console.log("Primjer lokalnog commita2");
